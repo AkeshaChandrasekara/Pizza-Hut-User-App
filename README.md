@@ -5,3 +5,5 @@ This user app makes ordering your favorite food and bevarages easier than ever w
 🔹 Frontend (User App): Java, XML Layouts, Material Design, Bottom Navigation, Animations
 🔹 Backend: Firebase Firestore, SQLite (Offline), PayHere API for secure transactions
 🔹 External Features: Picasso for fast image loading, Google Maps API for location services, and an accelerometer for shake detection & list refresh
+
+Video Demo: https://youtu.be/9N_pawMlpS4?si=7H9JRv3mgzxFVxln
