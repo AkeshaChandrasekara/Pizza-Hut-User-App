@@ -1,6 +1,5 @@
 # Pizza-Hut-User-App
 
-#### Video Demo: [https://youtu.be/9N_pawMlpS4?si=7H9JRv3mgzxFVxln](https://youtu.be/9N_pawMlpS4?si=7H9JRv3mgzxFVxln)
 
 #### Description:
 The Pizza Hut User App is a comprehensive mobile application designed to make ordering your favorite food and beverages easier than ever. Built with a powerful Java Android frontend and a robust Firebase & SQLite backend, it ensures a seamless user experience, real-time tracking, and a hassle-free checkout process.
