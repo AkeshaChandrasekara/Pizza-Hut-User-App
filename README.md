@@ -21,16 +21,6 @@ The Pizza Hut User App is a comprehensive mobile application designed to make or
 - **Backend**: Firebase Firestore, SQLite (Offline), PayHere API
 - **External Libraries**: Picasso for image loading, Google Maps API for location services
 
-### Project Structure
-
-- **MainActivity.java**: The entry point of the application, handling the main navigation and user interface.
-- **MenuFragment.java**: Displays the menu items and handles user interactions for adding items to the cart.
-- **CartFragment.java**: Manages the shopping cart, allowing users to review and modify their orders before checkout.
-- **OrderTrackingActivity.java**: Provides real-time tracking of orders, showing the current status and estimated delivery time.
-- **PaymentActivity.java**: Handles the payment process, integrating with the PayHere API for secure transactions.
-- **DatabaseHelper.java**: Manages local data storage using SQLite, ensuring offline functionality.
-- **FirebaseService.java**: Handles communication with Firebase Firestore for real-time data synchronization.
-
 ### Design Choices
 
 - **Material Design**: Chosen for its modern and user-friendly interface components, ensuring a consistent and intuitive user experience.
